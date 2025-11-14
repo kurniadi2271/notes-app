@@ -46,7 +46,7 @@ Proyek ini tidak memerlukan proses build yang rumit. Anda hanya perlu web server
 
 ## 📸 Tangkapan Layar
 
-*(Anda bisa menambahkan screenshot aplikasi di sini)*
+
 
 !Tampilan Aplikasi Catatan
 
